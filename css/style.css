@@ -316,9 +316,6 @@ a#scroller i {
 #latestBlog .siderDotted  span.line.last{
     height: 100px;
 }
-#latestBlog .latestBlog_content p{
-    
-}
 #latestBlog figure img{
     width: 100%;
 }
@@ -808,7 +805,6 @@ footer .footerContact.col-lg-2{
     color: #FF5722;
 }
 /* end scroll top button */
-
 
 
 

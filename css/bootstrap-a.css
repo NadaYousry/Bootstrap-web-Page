@@ -6238,11 +6238,11 @@ button.close {
 }
 
 .carousel-control-prev {
-    right: 0
+    left: 0
 }
 
 .carousel-control-next {
-    left: 0
+    right: 0
 }
 
 .carousel-control-next-icon,
